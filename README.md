@@ -39,7 +39,7 @@
 - **Tech Stack:** HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js, MongoDB
 - **Features:** Airbnb-like responsive design, property listings, and efficient data management.
 
-#### 🔐 [Role-Based Access Control (RBAC) System](https://github.com/radharathor/rbac)
+#### 🔐 [Role-Based Access Control (RBAC) System](https://github.com/radharathor/rbac-dashboard)
 - **Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - **Features:** User authentication, role-based permissions, and CRUD operations.
 
